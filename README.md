@@ -1,6 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+This is a sample project based on NYTimes most popular api :-
+http://api.nytimes.com/svc/mostpopular/v2/mostviewed/{section}/{period}.json?api-key=sample-key
+
+This project is build using swift4.2 & xcode 10
+
+To run the project select the Test.xcodeproj
